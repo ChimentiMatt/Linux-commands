@@ -7,7 +7,7 @@ mkdir dir1 dir2 dir3
 touch cat.txt dog.txt
 
 
-#current content
+#lesson content
 echo "Number of files in dir"
 ls ~ > file_list.txt
 wc -l file_list.txt

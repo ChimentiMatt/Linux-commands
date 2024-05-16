@@ -4,8 +4,7 @@
 mkdir /tmp/tutorial
 cd /tmp/tutorial
 
-#current content
-
+#lesson content
 man uniq
 
 #note view the manual screen for uniq

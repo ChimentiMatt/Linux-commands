@@ -5,6 +5,6 @@ mkdir /tmp/tutorial
 cd /tmp/tutorial
 
 
-#current content
+#lesson content
 mkdir .hidden
 mv .hidden .hidden_2

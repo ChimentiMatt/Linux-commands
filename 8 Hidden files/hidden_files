@@ -3,5 +3,7 @@
 #previous content
 mkdir /tmp/tutorial
 cd /tmp/tutorial
-mkdir hidden_dir
+
+#lesson content
+mkdir .hidden_dir
 ls

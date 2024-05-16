@@ -6,7 +6,7 @@ cd /tmp/tutorial
 echo "this has words in it" > combined.txt
 
 
-#current content
+#lesson content
 echo "Number of unique lines"
 cat combined.txt | uniq | wc -l
 

@@ -5,7 +5,7 @@ mkdir /tmp/tutorial
 cd /tmp/tutorial
 mkdir .hidden
 
-#new_content
+#lesson content
 ls
 ls -a
 ls .hidden

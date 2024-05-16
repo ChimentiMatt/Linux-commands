@@ -5,6 +5,6 @@ mkdir /tmp/tutorial
 cd /tmp/tutorial
 echo 'file 1' > combined.txt
 
-#current content
+#lesson content
 mv combined.txt combined_backup.txt
 ls

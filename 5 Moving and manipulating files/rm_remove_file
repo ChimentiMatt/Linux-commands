@@ -5,6 +5,6 @@ mkdir /tmp/tutorial
 cd /tmp/tutorial
 echo "text" > file_1
 
-#current content
+#lesson content
 rm file_1
 ls

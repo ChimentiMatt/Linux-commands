@@ -6,5 +6,5 @@ cd /tmp/tutorial
 mkdir dir1 dir2 dir3
 echo "text here" > combined.txt
 
-#current content
+#lesson content
 cp combined.txt backup_combined.txt

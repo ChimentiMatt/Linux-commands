@@ -8,5 +8,5 @@ cd dir1
 echo "text here" > combined.txt
 cd ..
 
-#current content
+#lesson content
 mv dir1/* .

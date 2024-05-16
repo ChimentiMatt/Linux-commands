@@ -8,7 +8,7 @@ echo "text here" > combined.txt
 echo "test 1" > test_2.txt
 echo "test 2" > test_1.txt
 
-#current content
+#lesson content
 mv combined.txt test_* dir3 dir2
 ls
 ls dir2

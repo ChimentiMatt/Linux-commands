@@ -10,6 +10,6 @@ cat t* > combined.txt
 
 
 
-#current content
+#lesson content
 mv combined.txt dir1
 ls dir1

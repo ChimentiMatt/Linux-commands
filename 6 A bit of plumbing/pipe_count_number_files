@@ -6,7 +6,7 @@ cd /tmp/tutorial
 mkdir dir1 dir2 dir3
 touch cat dog
 
-#current contnet
+#lesson contnet
 ls ~ | wc -l
 
 #note
