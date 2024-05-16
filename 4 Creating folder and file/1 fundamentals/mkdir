@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+

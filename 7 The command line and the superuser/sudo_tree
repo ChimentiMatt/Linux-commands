@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+echo "this has words in it" > combined.txt
+
+#current content
+sudo apt install tree
+
+cd /tmp/tutorial
+tree
+
+# putting udo in front of any command runs it as a superuser

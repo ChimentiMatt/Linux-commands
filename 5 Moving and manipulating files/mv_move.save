@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+echo "This is a test" > test_1.txt
+echo "This is a second test" > test_2.txt
+echo "This is a third test" > test_3.txt
+
+cat test_1.txt test_2.txt test_3.txt
+cat test_?.txt
+cat test_*
+cat t* > combined.txt
+cat combined.txt
+
+#current content
+mv combined.txt dir1
+

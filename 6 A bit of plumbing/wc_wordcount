@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+echo "This is a text file with lots of words or at least some" > combined.txt
+
+#current contnet
+echo "The number of lines in combined.txt is"
+wc -l combined.txt
+

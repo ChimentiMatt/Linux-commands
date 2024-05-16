@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+
+#lesson content
+mkdir "folder 1"
+mkdir 'folder 2'
+mkdir folder\ 3
+mkdir "folder 4" "folder 5"
+mkdir -p "folder 6"/"folder 7"
+ls

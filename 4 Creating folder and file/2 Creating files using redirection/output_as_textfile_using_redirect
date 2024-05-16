@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+
+#lesson content
+ls > output.txt
+
+# then read file with cat
+
+cat output.txt

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+echo 'file 1' > combined.txt
+
+#current content
+mv combined.txt combined_backup.txt
+ls

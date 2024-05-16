@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+echo "text" > file_1
+
+#current content
+rm file_1
+ls

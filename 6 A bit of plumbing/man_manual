@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+
+#current content
+
+man uniq
+
+#note view the manual screen for uniq

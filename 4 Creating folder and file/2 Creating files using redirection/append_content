@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+echo "This is a test" > test_1.txt
+echo "This is a second test" > test_2.txt
+echo "This is a third test" > test_3.txt
+
+#lesson content
+cat t* >> combined.txt
+echo "I've appended a line!" >> combined.txt
+cat combined.txt
+
+# double arrow, >>, appends opposed to replaces to the content of the file.

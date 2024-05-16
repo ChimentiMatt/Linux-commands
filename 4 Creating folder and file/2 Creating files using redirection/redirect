@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+
+echo "This is a test" > test_1.txt
+echo "This is a second test" > test_2.txt
+echo "This is a third test" > test_3.txt
+ls

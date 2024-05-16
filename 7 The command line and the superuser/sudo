@@ -1,0 +1,7 @@
+  GNU nano 4.8                                                 sudo                                                 Modified  
+#!/usr/bin/env bash
+
+cat /etc/shadow
+printf "\n*** next attempt uses sudo for user permissions\n\n"
+
+sudo cat /etc/shadow

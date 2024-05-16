@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+
+#lesson content
+mkdir -p dir4/dir5/dir6
+ls

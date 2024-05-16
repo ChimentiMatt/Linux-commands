@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+mkdir dir1
+cd dir1
+echo "text here" > combined.txt
+cd ..
+
+#current content
+mv dir1/* .

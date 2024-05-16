@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+mkdir dir1 dir2 dir3
+touch cat.txt dog.txt
+
+
+#current content
+echo "Number of files in dir"
+ls ~ > file_list.txt
+wc -l file_list.txt
+rm file_list.txt
+

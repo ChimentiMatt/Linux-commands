@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+whoami
+NAME="$(whoami)"
+
+cd /home/$NAME/Desktop
+pwd
