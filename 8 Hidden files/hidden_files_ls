@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+mkdir .hidden
+
+#new_content
+ls
+ls -a
+ls .hidden
+ls -a .hidden

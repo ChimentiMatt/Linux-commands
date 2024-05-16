@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+#previous content
+mkdir /tmp/tutorial
+cd /tmp/tutorial
+
+
+#current content
+mkdir .hidden
+mv .hidden .hidden_2
